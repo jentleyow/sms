@@ -19,6 +19,6 @@ mySMS is a system that allow 2 kind of user access.
 
 
 ### Todo's
-
+Add payment history.
 
 
