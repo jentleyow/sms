@@ -22,3 +22,7 @@ mySMS is a system that allow 2 kind of user access.
 Add payment history.
 
 
+### Bug 
+Student id in savestudent 
+
+
